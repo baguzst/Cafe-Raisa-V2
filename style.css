@@ -145,7 +145,7 @@ body {
 
 /* About section */
 .about {
-  padding: 10rem 7% 1.4rem;
+  padding: 10rem 7% 1rem;
 }
 
 .about h2 {
@@ -163,7 +163,7 @@ body {
 }
 
 .about .row .about-img {
-  flex: 1 1 45rem;
+  flex: 1 1 35rem;
 }
 
 .about .row .about-img .img {
@@ -186,6 +186,7 @@ body {
   font-size: 1.4rem;
   font-weight: 100;
   list-style: 1.6;
+  text-align: justify;
 }
 
 /* Media Queries */
