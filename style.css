@@ -241,7 +241,7 @@ body {
   }
 
   .about .row .about-img img {
-    height: 24rem;
+    height: 30rem;
     object-fit: cover;
     object-position: center;
   }
